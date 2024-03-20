@@ -2474,6 +2474,15 @@
       )
       (polyline
         (pts
+          (xy -0.635 -1.27)
+          (xy -0.635 1.27)
+          (xy 0.635 1.27)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
           (xy 4.826 -11.9053)
           (xy 5.334 -11.9053)
           (xy 5.334 -12.3815)
@@ -2551,6 +2560,16 @@
           (xy 6.5 5.08)
         )
         (stroke (width 0.127) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.27 -1.27)
+          (xy 0.635 -1.27)
+          (xy 0.635 1.27)
+          (xy 1.27 1.27)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
       )
       (polyline
